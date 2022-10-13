@@ -1,0 +1,24 @@
+{
+	"id": 1,
+	"name": "Nike shoes",
+	"price": 100,
+	"discount": 40,
+	"currency": "$",
+	"rating": 4,
+	"favourite": true,
+	"description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+	"sizes": [{
+		"size": 43,
+		"available": true
+	}, {
+		"size": 44,
+		"available": false
+	}, {
+		"size": 44,5,
+		"available": true
+	}, {
+		"size": 45,
+		"available": true
+	}]
+
+}
