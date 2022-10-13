@@ -24,7 +24,13 @@
 		"firstname": "John",
 		"lastname": "Doe",
 		"email": "john.doe@mail,com",
-		"phonenumber": "012-32456789"
+		"phonenumber": "012-32456789",
+		"address": {
+			"line1": "Platinum Drive 1",
+			"city": "Portland",
+			"postalCode": "123 45 PO",
+			"province": "Washington"
+		}
 	},
 	"delivery": {
 		"parcels": [{
@@ -45,8 +51,8 @@
 		}]
 	},
 	"payment": {
-	 	"card": {
-		 	"maskedNumber": "**** **** **** 1234",
+		"card": {
+			"maskedNumber": "**** **** **** 1234",
 			"cardType": "VISA"
 		}
 	}
