@@ -1,31 +1,31 @@
 [{
   "id": 1,
-  "string": "Nature"
+  "title": "Nature"
 }, {
   "id": 2,
-  "string": "Animals"
+  "title": "Animals"
 }, {
   "id": 3,
-  "string": "Space"
+  "title": "Space"
 }, {
   "id": 4,
-  "string": "Business"
+  "title": "Business"
 }, {
   "id": 5,
-  "string": "Tech"
+  "title": "Tech"
 }, {
   "id": 6,
-  "string": "Plants"
+  "title": "Plants"
 }, {
   "id": 7,
-  "string": "Food"
+  "title": "Food"
 }, {
   "id": 8,
-  "string": "Interior"
+  "title": "Interior"
 }, {
   "id": 9,
-  "string": "Politics"
+  "title": "Politics"
 }, {
   "id": 10,
-  "string": "Sport"
+  "title": "Sport"
 }]
