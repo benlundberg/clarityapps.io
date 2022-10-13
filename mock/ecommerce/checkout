@@ -1,0 +1,53 @@
+{
+	"cart": {
+		"items": [{
+			"id": 1,
+			"name": "Nike shoes",
+			"price": 100,
+			"striked_price": 180,
+			"quantity": 1,
+			"favourite": false
+		}, {
+			"id": 2,
+			"name": "Basic T-shirt",
+			"price": 29,
+			"striked_price": 49,
+			"currency": "$",
+			"quantity": 2,
+			"favourite": false
+		}],
+		"price": 129,
+		"striked_price": 229,
+		"vouchers": []
+	},
+	"customer": {
+		"firstname": "John",
+		"lastname": "Doe",
+		"email": "john.doe@mail,com",
+		"phonenumber": "012-32456789"
+	},
+	"delivery": {
+		"parcels": [{
+			"delivery": {
+				"name": "Home delivery",
+				"address": {
+					"line1": "Platinum Drive 1",
+					"city": "Portland",
+					"postalCode": "123 45 PO",
+					"province": "Washington"
+				},
+				"shipping": {
+					"speed": "2-4 days",
+					"cost": "Free"
+				},
+				"itemsId": [1, 2]
+			}
+		}]
+	},
+	"payment": {
+	 	"card": {
+		 	"maskedNumber": "**** **** **** 1234",
+			"cardType": "VISA"
+		}
+	}
+}
