@@ -1,0 +1,142 @@
+[{
+  "id": 1,
+  "name": "sociis natoque",
+  "currency": "$",
+  "price": 74,
+  "discount": 39,
+  "rating": 4
+}, {
+  "id": 2,
+  "name": "ac",
+  "currency": "$",
+  "price": 99,
+  "discount": 23,
+  "rating": 1
+}, {
+  "id": 3,
+  "name": "aliquam",
+  "currency": "$",
+  "price": 11,
+  "discount": null,
+  "rating": null
+}, {
+  "id": 4,
+  "name": "nisi nam",
+  "currency": "$",
+  "price": 51,
+  "discount": 43,
+  "rating": 4
+}, {
+  "id": 5,
+  "name": "ultrices phasellus",
+  "currency": "$",
+  "price": 72,
+  "discount": null,
+  "rating": null
+}, {
+  "id": 6,
+  "name": "leo odio",
+  "currency": "$",
+  "price": 63,
+  "discount": 21,
+  "rating": null
+}, {
+  "id": 7,
+  "name": "suspendisse",
+  "currency": "$",
+  "price": 77,
+  "discount": null,
+  "rating": null
+}, {
+  "id": 8,
+  "name": "blandit ultrices",
+  "currency": "$",
+  "price": 139,
+  "discount": 39,
+  "rating": null
+}, {
+  "id": 9,
+  "name": "morbi non",
+  "currency": "$",
+  "price": 45,
+  "discount": 43,
+  "rating": 2
+}, {
+  "id": 10,
+  "name": "rutrum nulla",
+  "currency": "$",
+  "price": 111,
+  "discount": null,
+  "rating": null
+}, {
+  "id": 11,
+  "name": "turpis",
+  "currency": "$",
+  "price": 44,
+  "discount": null,
+  "rating": 2
+}, {
+  "id": 12,
+  "name": "ligula vehicula",
+  "currency": "$",
+  "price": 62,
+  "discount": null,
+  "rating": 3
+}, {
+  "id": 13,
+  "name": "quis tortor",
+  "currency": "$",
+  "price": 83,
+  "discount": null,
+  "rating": null
+}, {
+  "id": 14,
+  "name": "dolor",
+  "currency": "$",
+  "price": 85,
+  "discount": 43,
+  "rating": 3
+}, {
+  "id": 15,
+  "name": "pulvinar",
+  "currency": "$",
+  "price": 76,
+  "discount": 42,
+  "rating": null
+}, {
+  "id": 16,
+  "name": "est",
+  "currency": "$",
+  "price": 150,
+  "discount": null,
+  "rating": 3
+}, {
+  "id": 17,
+  "name": "sit amet",
+  "currency": "$",
+  "price": 123,
+  "discount": 36,
+  "rating": null
+}, {
+  "id": 18,
+  "name": "lobortis",
+  "currency": "$",
+  "price": 63,
+  "discount": 49,
+  "rating": null
+}, {
+  "id": 19,
+  "name": "magna at",
+  "currency": "$",
+  "price": 72,
+  "discount": 25,
+  "rating": null
+}, {
+  "id": 20,
+  "name": "curae donec",
+  "currency": "$",
+  "price": 131,
+  "discount": 13,
+  "rating": null
+}]
+# Rows:
