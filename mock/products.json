@@ -1,142 +1,122 @@
 [{
   "id": 1,
-  "name": "sociis natoque",
+  "name": "CK shoes",
+  "price": 47,
+  "discount": null,
   "currency": "$",
-  "price": 74,
-  "discount": 39,
-  "rating": 4
+  "rating": 4,
+  "favourite": true
 }, {
   "id": 2,
-  "name": "ac",
+  "name": "Fancy shoes",
+  "price": 93,
+  "discount": null,
   "currency": "$",
-  "price": 99,
-  "discount": 23,
-  "rating": 1
+  "rating": 3,
+  "favourite": false
 }, {
   "id": 3,
-  "name": "aliquam",
+  "name": "Nike shoes",
+  "price": 99,
+  "discount": 37,
   "currency": "$",
-  "price": 11,
-  "discount": null,
-  "rating": null
+  "rating": 5,
+  "favourite": true
 }, {
   "id": 4,
-  "name": "nisi nam",
+  "name": "Nike Shoes",
+  "price": 129,
+  "discount": 25,
   "currency": "$",
-  "price": 51,
-  "discount": 43,
-  "rating": 4
+  "rating": null,
+  "favourite": true
 }, {
   "id": 5,
-  "name": "ultrices phasellus",
+  "name": "Converse shoes",
+  "price": 67,
+  "discount": 18,
   "currency": "$",
-  "price": 72,
-  "discount": null,
-  "rating": null
+  "rating": 1,
+  "favourite": false
 }, {
   "id": 6,
-  "name": "leo odio",
+  "name": "Nike shoes",
+  "price": 131,
+  "discount": 30,
   "currency": "$",
-  "price": 63,
-  "discount": 21,
-  "rating": null
+  "rating": 1,
+  "favourite": true
 }, {
   "id": 7,
-  "name": "suspendisse",
+  "name": "Converse shoes",
+  "price": 78,
+  "discount": 45,
   "currency": "$",
-  "price": 77,
-  "discount": null,
-  "rating": null
+  "rating": null,
+  "favourite": true
 }, {
   "id": 8,
-  "name": "blandit ultrices",
+  "name": "Nike Shoes",
+  "price": 30,
+  "discount": 38,
   "currency": "$",
-  "price": 139,
-  "discount": 39,
-  "rating": null
+  "rating": 2,
+  "favourite": false
 }, {
   "id": 9,
-  "name": "morbi non",
+  "name": "CK shoes",
+  "price": 134,
+  "discount": 16,
   "currency": "$",
-  "price": 45,
-  "discount": 43,
-  "rating": 2
+  "rating": null,
+  "favourite": true
 }, {
   "id": 10,
-  "name": "rutrum nulla",
+  "name": "Fancy shoes",
+  "price": 123,
+  "discount": 38,
   "currency": "$",
-  "price": 111,
-  "discount": null,
-  "rating": null
+  "rating": null,
+  "favourite": false
 }, {
   "id": 11,
-  "name": "turpis",
+  "name": "Nike shoes",
+  "price": 146,
+  "discount": 30,
   "currency": "$",
-  "price": 44,
-  "discount": null,
-  "rating": 2
+  "rating": null,
+  "favourite": false
 }, {
   "id": 12,
-  "name": "ligula vehicula",
+  "name": "Nike Shoes",
+  "price": 137,
+  "discount": 10,
   "currency": "$",
-  "price": 62,
-  "discount": null,
-  "rating": 3
+  "rating": null,
+  "favourite": true
 }, {
   "id": 13,
-  "name": "quis tortor",
+  "name": "Nike shoes",
+  "price": 75,
+  "discount": 21,
   "currency": "$",
-  "price": 83,
-  "discount": null,
-  "rating": null
+  "rating": null,
+  "favourite": false
 }, {
   "id": 14,
-  "name": "dolor",
+  "name": "Converse shoes",
+  "price": 49,
+  "discount": 46,
   "currency": "$",
-  "price": 85,
-  "discount": 43,
-  "rating": 3
+  "rating": 4,
+  "favourite": false
 }, {
   "id": 15,
-  "name": "pulvinar",
+  "name": "CK shoes",
+  "price": 111,
+  "discount": 44,
   "currency": "$",
-  "price": 76,
-  "discount": 42,
-  "rating": null
-}, {
-  "id": 16,
-  "name": "est",
-  "currency": "$",
-  "price": 150,
-  "discount": null,
-  "rating": 3
-}, {
-  "id": 17,
-  "name": "sit amet",
-  "currency": "$",
-  "price": 123,
-  "discount": 36,
-  "rating": null
-}, {
-  "id": 18,
-  "name": "lobortis",
-  "currency": "$",
-  "price": 63,
-  "discount": 49,
-  "rating": null
-}, {
-  "id": 19,
-  "name": "magna at",
-  "currency": "$",
-  "price": 72,
-  "discount": 25,
-  "rating": null
-}, {
-  "id": 20,
-  "name": "curae donec",
-  "currency": "$",
-  "price": 131,
-  "discount": 13,
-  "rating": null
+  "rating": null,
+  "favourite": false
 }]
 # Rows:
