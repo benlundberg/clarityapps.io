@@ -5,7 +5,7 @@
     "price": 100,
     "striked_price": 180,
     "quantity": 1,
-    "favourite": false,
+    "favourite": false
   }, {
     "id": 2,
     "name": "Basic T-shirt",
@@ -13,7 +13,7 @@
     "striked_price": 49,
     "currency": "$",
     "quantity": 2,
-    "favourite": false,
+    "favourite": false
   }],
   "price": 129,
   "striked_price": 229,
