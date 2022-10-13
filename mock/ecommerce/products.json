@@ -3,7 +3,6 @@
   "name": "CK shoes",
   "price": 47,
   "discount": null,
-  "currency": "$",
   "rating": 4,
   "favourite": true
 }, {
@@ -11,22 +10,20 @@
   "name": "Fancy shoes",
   "price": 93,
   "discount": null,
-  "currency": "$",
   "rating": 3,
   "favourite": false
 }, {
   "id": 3,
   "name": "Nike shoes",
   "price": 99,
-  "discount": 37,
-  "currency": "$",
+  "striked_price": 150,
   "rating": 5,
   "favourite": true
 }, {
   "id": 4,
   "name": "Nike Shoes",
   "price": 129,
-  "discount": 25,
+  "striked_price": 25,
   "currency": "$",
   "rating": null,
   "favourite": true
@@ -34,89 +31,77 @@
   "id": 5,
   "name": "Converse shoes",
   "price": 67,
-  "discount": 18,
-  "currency": "$",
+  "striked_price": 89,
   "rating": 1,
   "favourite": false
 }, {
   "id": 6,
   "name": "Nike shoes",
   "price": 131,
-  "discount": 30,
-  "currency": "$",
+  "striked_price": 199,
   "rating": 1,
   "favourite": true
 }, {
   "id": 7,
   "name": "Converse shoes",
   "price": 78,
-  "discount": 45,
-  "currency": "$",
+  "striked_price": 99,
   "rating": null,
   "favourite": true
 }, {
   "id": 8,
   "name": "Nike Shoes",
   "price": 30,
-  "discount": 38,
-  "currency": "$",
+  "striked_price": 50,
   "rating": 2,
   "favourite": false
 }, {
   "id": 9,
   "name": "CK shoes",
   "price": 134,
-  "discount": 16,
-  "currency": "$",
+  "striked_price": 199,
   "rating": null,
   "favourite": true
 }, {
   "id": 10,
   "name": "Fancy shoes",
   "price": 123,
-  "discount": 38,
-  "currency": "$",
+  "striked_price": 199,
   "rating": null,
   "favourite": false
 }, {
   "id": 11,
   "name": "Nike shoes",
   "price": 146,
-  "discount": 30,
-  "currency": "$",
+  "striked_price": 199,
   "rating": null,
   "favourite": false
 }, {
   "id": 12,
   "name": "Nike Shoes",
   "price": 137,
-  "discount": 10,
-  "currency": "$",
+  "striked_price": 220,
   "rating": null,
   "favourite": true
 }, {
   "id": 13,
   "name": "Nike shoes",
   "price": 75,
-  "discount": 21,
-  "currency": "$",
+  "striked_price": 99,
   "rating": null,
   "favourite": false
 }, {
   "id": 14,
   "name": "Converse shoes",
   "price": 49,
-  "discount": 46,
-  "currency": "$",
+  "striked_price": 69,
   "rating": 4,
   "favourite": false
 }, {
   "id": 15,
   "name": "CK shoes",
   "price": 111,
-  "discount": 44,
-  "currency": "$",
+  "striked_price": 140,
   "rating": null,
   "favourite": false
 }]
-# Rows:
