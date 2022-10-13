@@ -1,0 +1,21 @@
+{
+  "items": [{
+    "id": 1,
+    "name": "Nike shoes",
+    "price": 100,
+    "striked_price": 180,
+    "quantity": 1,
+    "favourite": false,
+  }, {
+    "id": 2,
+    "name": "Basic T-shirt",
+    "price": 29,
+    "striked_price": 49,
+    "currency": "$",
+    "quantity": 2,
+    "favourite": false,
+  }],
+  "price": 129,
+  "striked_price": 229,
+  "vouchers": []
+}
