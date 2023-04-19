@@ -1,16 +1,9 @@
 {
-	"id": 28,
-	"category": "Sport",
-	"title": "Reactive next generation leverage",
-	"text": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-	"readLength": 5,
-	"date": "5/10/2021",
-	"isBookmarked": true,
-	"media": [{
-		"isVideo": false
-	}, {
-		"isVideo": false
-	}, {
-		"isVideo": true
-	}]
+    "id": 1,
+    "category": "Business",
+    "title": "Amazon Announces Plans to Build New Headquarters in New York City",
+    "date": "2023-02-15",
+    "author": "Jane Doe",
+    "source": "The New York Times",
+    "text": "Amazon has announced plans to build a new headquarters in New York City, which the company says will create thousands of new jobs and contribute billions of dollars to the local economy. The headquarters will be located in Long Island City, and will include more than 4 million square feet of office space. Amazon says it plans to invest $5 billion in the project over the next decade."
 }
