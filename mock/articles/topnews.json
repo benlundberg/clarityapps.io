@@ -1,65 +1,36 @@
 [{
-  "id": 1,
-  "category": "Space",
-  "title": "De-engineered leading edge system engine",
-  "text": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-  "read_time": 9,
-  "date": "10/30/2022",
-  "bookmarked": false
-}, {
-  "id": 2,
-  "category": "Nature",
-  "title": "Decentralized asynchronous matrices",
-  "text": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-  "read_time": 4,
-  "date": "11/25/2022",
-  "bookmarked": true
-}, {
-  "id": 3,
-  "category": "Politics",
-  "title": "Organized system-worthy superstructure",
-  "text": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
-  "read_time": 6,
-  "date": "7/3/2022",
-  "bookmarked": true
-}, {
-  "id": 4,
-  "category": "Animals",
-  "title": "Decentralized real-time superstructure",
-  "text": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-  "read_time": 6,
-  "date": "8/3/2022",
-  "bookmarked": false
-}, {
-  "id": 5,
-  "category": "Interior",
-  "title": "Multi-layered heuristic hub",
-  "text": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-  "read_time": 15,
-  "date": "12/17/2022",
-  "bookmarked": false
-}, {
-  "id": 6,
-  "category": "Food",
-  "title": "Secured next generation open architecture",
-  "text": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-  "read_time": 15,
-  "date": "7/6/2022",
-  "bookmarked": false
-}, {
-  "id": 7,
-  "category": "Space",
-  "title": "Face to face global ability",
-  "text": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
-  "read_time": 1,
-  "date": "12/1/2022",
-  "bookmarked": false
-}, {
-  "id": 8,
-  "category": "Politics",
-  "title": "Expanded 5th generation moratorium",
-  "text": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-  "read_time": 15,
-  "date": "10/20/2022",
-  "bookmarked": false
-}]
+		"id": 1,
+		"category": "Politics",
+		"title": "President Biden Announces Plan to Address Climate Change",
+		"date": "2023-04-19",
+		"text": "President Joe Biden announced his administration's plan to address climate change by investing in renewable energy, reducing carbon emissions, and working with other countries to combat global warming. The plan includes measures to increase the use of electric vehicles, improve energy efficiency in buildings, and promote sustainable agriculture."
+	},
+	{
+		"id": 2,
+		"category": "Technology",
+		"title": "Apple Unveils New iPhone with Improved Camera and Battery Life",
+		"date": "2023-04-18",
+		"text": "Apple unveiled its latest iPhone, which includes a significantly improved camera and longer battery life. The new iPhone also includes new features like improved facial recognition technology and a larger, edge-to-edge display."
+	},
+	{
+		"id": 3,
+		"category": "Health",
+		"title": "Study Finds Link Between Exercise and Reduced Risk of Alzheimer's Disease",
+		"date": "2023-04-17",
+		"text": "A new study has found a link between regular exercise and a reduced risk of developing Alzheimer's disease. The study, which followed a large group of participants over a period of several years, found that those who exercised regularly had a significantly lower risk of developing Alzheimer's than those who did not."
+	},
+	{
+		"id": 4,
+		"category": "Sports",
+		"title": "LeBron James Leads Lakers to Victory in Overtime Thriller",
+		"date": "2023-04-16",
+		"text": "LeBron James led the Los Angeles Lakers to victory in a thrilling overtime game against the Boston Celtics. James scored 38 points and grabbed 10 rebounds, including a key three-pointer in the closing seconds of overtime to secure the win for the Lakers."
+	},
+	{
+		"id": 5,
+		"category": "Environment",
+		"title": "New Study Finds Alarming Decline in Global Biodiversity",
+		"date": "2023-04-15",
+		"text": "A new study has found an alarming decline in global biodiversity, with many species of plants and animals facing extinction. The study cites factors like climate change, habitat loss, and pollution as major contributors to the decline, and calls for immediate action to address the issue."
+	}
+]
