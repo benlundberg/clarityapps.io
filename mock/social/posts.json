@@ -3,6 +3,7 @@
 		"username": "John Doe",
 		"content": "Just had an amazing time at the beach!",
 		"date": "2023-04-19T09:00:00Z",
+		"place": "New York City",
 		"likes": 15,
 		"comments": 2
 	},
@@ -11,6 +12,7 @@
 		"username": "Jane Smith",
 		"content": "Enjoying the beautiful scenery on this hike!",
 		"date": "2023-04-19T11:30:00Z",
+		"place": "San Francisco",
 		"likes": 32,
 		"comments": 6
 	},
@@ -19,6 +21,7 @@
 		"username": "Peter Jones",
 		"content": "Just finished a great workout at the gym!",
 		"date": "2023-04-19T14:00:00Z",
+		"place": "California",
 		"likes": 22,
 		"comments": 4
 	},
@@ -27,6 +30,7 @@
 		"username": "Jane Doe",
 		"content": "Can't wait for the weekend! Who's with me? 😎",
 		"date": "2023-04-18T17:15:00Z",
+		"place": "New York City",
 		"likes": 41,
 		"comments": 10
 	},
@@ -35,6 +39,7 @@
 		"username": "John Smith",
 		"content": "Just saw an incredible live performance by my favorite band!",
 		"date": "2023-04-18T20:45:00Z",
+		"place": "Oregon",
 		"likes": 63,
 		"comments": 12
 	},
@@ -43,6 +48,7 @@
 		"username": "Peter Smith",
 		"content": "Exciting news! My new book just hit the shelves!",
 		"date": "2023-04-17T11:00:00Z",
+		"place": "New York City",
 		"likes": 18,
 		"comments": 3
 	},
@@ -51,6 +57,7 @@
 		"username": "John Doe",
 		"content": "Trying out some new recipes in the kitchen tonight!",
 		"date": "2023-04-17T18:30:00Z",
+		"place": "Portland",
 		"likes": 27,
 		"comments": 7
 	},
@@ -59,6 +66,7 @@
 		"username": "Jane Doe",
 		"content": "Just adopted the cutest puppy ever! Meet Charlie ❤️",
 		"date": "2023-04-16T13:00:00Z",
+		"place": "New York City",
 		"likes": 52,
 		"comments": 14
 	},
@@ -67,6 +75,7 @@
 		"username": "Peter Jones",
 		"content": "Feeling grateful for all the amazing people in my life!",
 		"date": "2023-04-16T17:45:00Z",
+		"place": "San Francisco",
 		"likes": 38,
 		"comments": 5
 	},
@@ -75,6 +84,7 @@
 		"username": "John Smith",
 		"content": "Just reached a major milestone in my career!",
 		"date": "2023-04-15T10:30:00Z",
+		"place": "Portland",
 		"likes": 72,
 		"comments": 9
 	}
