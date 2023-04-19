@@ -1,31 +1,41 @@
 [{
-  "id": 1,
-  "title": "Nature"
-}, {
-  "id": 2,
-  "title": "Animals"
-}, {
-  "id": 3,
-  "title": "Space"
-}, {
-  "id": 4,
-  "title": "Business"
-}, {
-  "id": 5,
-  "title": "Tech"
-}, {
-  "id": 6,
-  "title": "Plants"
-}, {
-  "id": 7,
-  "title": "Food"
-}, {
-  "id": 8,
-  "title": "Interior"
-}, {
-  "id": 9,
-  "title": "Politics"
-}, {
-  "id": 10,
-  "title": "Sport"
-}]
+		"id": 1,
+		"name": "Politics"
+	},
+	{
+		"id": 2,
+		"name": "Technology"
+	},
+	{
+		"id": 3,
+		"name": "Health"
+	},
+	{
+		"id": 4,
+		"name": "Sports"
+	},
+	{
+		"id": 5,
+		"name": "Environment"
+	},
+	{
+		"id": 6,
+		"name": "Business"
+	},
+	{
+		"id": 7,
+		"name": "Entertainment"
+	},
+	{
+		"id": 8,
+		"name": "Science"
+	},
+	{
+		"id": 9,
+		"name": "Education"
+	},
+	{
+		"id": 10,
+		"name": "Crime"
+	}
+]
