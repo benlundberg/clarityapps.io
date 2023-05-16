@@ -1,0 +1,34 @@
+{[
+    {
+      "sender": "John",
+      "message": "Hey, how are you doing?"
+    },
+    {
+      "sender": "Emma",
+      "message": "Hi John! I'm doing great, thanks. How about you?"
+    },
+    {
+      "sender": "John",
+      "message": "I'm good too, thanks for asking. Did you have a good weekend?"
+    },
+    {
+      "sender": "Emma",
+      "message": "Yes, it was fantastic! I went hiking with some friends. What about you?"
+    },
+    {
+      "sender": "John",
+      "message": "That sounds fun! I had a relaxing weekend and caught up on some reading."
+    },
+    {
+      "sender": "Emma",
+      "message": "Nice! Any book recommendations?"
+    },
+    {
+      "sender": "John",
+      "message": "Definitely! I just finished reading 'Educated' by Tara Westover. It's a captivating memoir."
+    },
+    {
+      "sender": "Emma",
+      "message": "Oh, I've heard about that book. I'll add it to my reading list. Thanks!"
+    }
+  ]
