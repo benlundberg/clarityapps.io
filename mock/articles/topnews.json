@@ -2,35 +2,40 @@
 		"id": 1,
 		"category": "Politics",
 		"title": "President Biden Announces Plan to Address Climate Change",
-		"date": "2023-04-19",
+		"date": "Today",
+		"read_length": "5 min",
 		"text": "President Joe Biden announced his administration's plan to address climate change by investing in renewable energy, reducing carbon emissions, and working with other countries to combat global warming. The plan includes measures to increase the use of electric vehicles, improve energy efficiency in buildings, and promote sustainable agriculture."
 	},
 	{
 		"id": 2,
 		"category": "Technology",
 		"title": "Apple Unveils New iPhone with Improved Camera and Battery Life",
-		"date": "2023-04-18",
+		"date": "Today",
+		"read_length": "12 min",
 		"text": "Apple unveiled its latest iPhone, which includes a significantly improved camera and longer battery life. The new iPhone also includes new features like improved facial recognition technology and a larger, edge-to-edge display."
 	},
 	{
 		"id": 3,
 		"category": "Health",
 		"title": "Study Finds Link Between Exercise and Reduced Risk of Alzheimer's Disease",
-		"date": "2023-04-17",
+		"date": "Yesterday",
+		"read_length": "4 min",
 		"text": "A new study has found a link between regular exercise and a reduced risk of developing Alzheimer's disease. The study, which followed a large group of participants over a period of several years, found that those who exercised regularly had a significantly lower risk of developing Alzheimer's than those who did not."
 	},
 	{
 		"id": 4,
 		"category": "Sports",
 		"title": "LeBron James Leads Lakers to Victory in Overtime Thriller",
-		"date": "2023-04-16",
+		"date": "Yesterday",
+		"read_length": "2 min",
 		"text": "LeBron James led the Los Angeles Lakers to victory in a thrilling overtime game against the Boston Celtics. James scored 38 points and grabbed 10 rebounds, including a key three-pointer in the closing seconds of overtime to secure the win for the Lakers."
 	},
 	{
 		"id": 5,
 		"category": "Environment",
 		"title": "New Study Finds Alarming Decline in Global Biodiversity",
-		"date": "2023-04-15",
+		"date": "Yesterday",
+		"read_length": "7 min",
 		"text": "A new study has found an alarming decline in global biodiversity, with many species of plants and animals facing extinction. The study cites factors like climate change, habitat loss, and pollution as major contributors to the decline, and calls for immediate action to address the issue."
 	}
 ]
