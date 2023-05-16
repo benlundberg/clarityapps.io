@@ -1,0 +1,11 @@
+{
+    "username": "john_doe",
+    "full_name": "John Doe",
+    "email": "johndoe@example.com",
+    "birthdate": "1990-05-15",
+    "location": "New York City",
+    "bio": "Adventurer | Photographer | Foodie",
+    "followers": 1000,
+    "following": 500,
+    "posts": 250
+  }
