@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "chat_phrase": "Hello, how can I assist you today?"
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Smith",
+      "chat_phrase": "Welcome! How may I help you?"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "chat_phrase": "Hi there! What can I do for you?"
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Williams",
+      "chat_phrase": "Greetings! How can I be of service?"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Brown",
+      "chat_phrase": "Good day! How may I assist you today?"
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Davis",
+      "chat_phrase": "Hello! What can I help you with?"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Miller",
+      "chat_phrase": "Hi! How can I support you?"
+    }
+  ]
+}
